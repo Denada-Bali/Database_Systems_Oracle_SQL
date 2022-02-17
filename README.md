@@ -69,3 +69,7 @@ columns such as:
 # Hospital Management Schema Diagram
 
 ![image](https://user-images.githubusercontent.com/86987951/154478893-43995a31-de2c-4fbe-a862-ce37a4b719ad.png)
+
+
+
+
